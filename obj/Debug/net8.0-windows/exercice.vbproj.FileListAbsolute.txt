@@ -1,0 +1,16 @@
+C:\programmation eve\exercice\exercice\bin\Debug\net8.0-windows\exercice.exe
+C:\programmation eve\exercice\exercice\bin\Debug\net8.0-windows\exercice.deps.json
+C:\programmation eve\exercice\exercice\bin\Debug\net8.0-windows\exercice.runtimeconfig.json
+C:\programmation eve\exercice\exercice\bin\Debug\net8.0-windows\exercice.dll
+C:\programmation eve\exercice\exercice\bin\Debug\net8.0-windows\exercice.pdb
+C:\programmation eve\exercice\exercice\obj\Debug\net8.0-windows\exercice.Form1.resources
+C:\programmation eve\exercice\exercice\obj\Debug\net8.0-windows\exercice.vbproj.GenerateResource.cache
+C:\programmation eve\exercice\exercice\obj\Debug\net8.0-windows\exercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\programmation eve\exercice\exercice\obj\Debug\net8.0-windows\exercice.AssemblyInfoInputs.cache
+C:\programmation eve\exercice\exercice\obj\Debug\net8.0-windows\exercice.AssemblyInfo.vb
+C:\programmation eve\exercice\exercice\obj\Debug\net8.0-windows\exercice.vbproj.CoreCompileInputs.cache
+C:\programmation eve\exercice\exercice\obj\Debug\net8.0-windows\exercice.dll
+C:\programmation eve\exercice\exercice\obj\Debug\net8.0-windows\refint\exercice.dll
+C:\programmation eve\exercice\exercice\obj\Debug\net8.0-windows\exercice.pdb
+C:\programmation eve\exercice\exercice\obj\Debug\net8.0-windows\exercice.genruntimeconfig.cache
+C:\programmation eve\exercice\exercice\obj\Debug\net8.0-windows\ref\exercice.dll

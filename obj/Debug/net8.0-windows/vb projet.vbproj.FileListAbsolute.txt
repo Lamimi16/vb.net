@@ -1,0 +1,20 @@
+C:\vb projet\vb projet\vb projet\bin\Debug\net8.0-windows\vb projet.exe
+C:\vb projet\vb projet\vb projet\bin\Debug\net8.0-windows\vb projet.deps.json
+C:\vb projet\vb projet\vb projet\bin\Debug\net8.0-windows\vb projet.runtimeconfig.json
+C:\vb projet\vb projet\vb projet\bin\Debug\net8.0-windows\vb projet.dll
+C:\vb projet\vb projet\vb projet\bin\Debug\net8.0-windows\vb projet.pdb
+C:\vb projet\vb projet\vb projet\obj\Debug\net8.0-windows\vb_projet.adminform.resources
+C:\vb projet\vb projet\vb projet\obj\Debug\net8.0-windows\vb_projet.loginform.resources
+C:\vb projet\vb projet\vb projet\obj\Debug\net8.0-windows\vb_projet.UserForm.resources
+C:\vb projet\vb projet\vb projet\obj\Debug\net8.0-windows\vb projet.vbproj.GenerateResource.cache
+C:\vb projet\vb projet\vb projet\obj\Debug\net8.0-windows\vb projet.GeneratedMSBuildEditorConfig.editorconfig
+C:\vb projet\vb projet\vb projet\obj\Debug\net8.0-windows\vb projet.AssemblyInfoInputs.cache
+C:\vb projet\vb projet\vb projet\obj\Debug\net8.0-windows\vb projet.AssemblyInfo.vb
+C:\vb projet\vb projet\vb projet\obj\Debug\net8.0-windows\vb projet.vbproj.CoreCompileInputs.cache
+C:\vb projet\vb projet\vb projet\obj\Debug\net8.0-windows\vb projet.dll
+C:\vb projet\vb projet\vb projet\obj\Debug\net8.0-windows\refint\vb projet.dll
+C:\vb projet\vb projet\vb projet\obj\Debug\net8.0-windows\vb projet.pdb
+C:\vb projet\vb projet\vb projet\obj\Debug\net8.0-windows\vb projet.genruntimeconfig.cache
+C:\vb projet\vb projet\vb projet\obj\Debug\net8.0-windows\ref\vb projet.dll
+C:\vb projet\vb projet\vb projet\obj\Debug\net8.0-windows\vb_projet.Vol.resources
+C:\vb projet\vb projet\vb projet\obj\Debug\net8.0-windows\vb_projet.Resources.resources
